@@ -13,7 +13,31 @@ Enhanced Console-Based Calculator using Java with scientific operations, tempera
   - Prevent duplicate phone numbers
 - Built using Java, ArrayList, Scanner
 - 
- ## Task 3:Inventory Management System (GUI)
+ 
+## Task 3 Student Information System (GUI) - ShadowFox Internship
+
+*Overview
+A Java Swing application to **add, update, delete, and view student records** (ID, Name, Marks).
+
+*Features
+- Add, update, delete students
+- Table displays all students
+- Click row to edit
+- Validates empty fields
+
+*How to Run
+1. Install Java 17+
+2. Compile:
+   ```bash
+   javac StudentSystem.java
+*Project Structure(Beginner Level)
+```text
+ShadowFox/
+├── Task1_Calculator/
+├── Task2_ContactManagement/
+└── Task3_StudentInformationSystem/
+📝 Submission Checklist
+## Task 4:Inventory Management System (GUI)
  
 - GUI-based application using Java Swing
 - Add, Update, Delete products
